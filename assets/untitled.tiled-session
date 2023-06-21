@@ -1,0 +1,36 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "tileset.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1118,
+                "y": 553
+            }
+        }
+    },
+    "last.imagePath": "D:/AP_PROJECT/assets",
+    "map.height": 21,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 30,
+    "map.tileWidth": 30,
+    "map.width": 40,
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 30,
+        "width": 30
+    }
+}
